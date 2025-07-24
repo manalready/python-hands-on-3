@@ -21,7 +21,7 @@ friends.insert(0,'Aisha_M')
 print(friends)
 friends.insert(-1,'Zainab')
 print(friends)
-friends2=[friend[0:3]
+friends2=friends[0:3]
 print(friends2)
 print(6)
 sort=sorted(friends)
